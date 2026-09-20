@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets (API keys) - never commit
+.env
+
+# macOS
+.DS_Store
